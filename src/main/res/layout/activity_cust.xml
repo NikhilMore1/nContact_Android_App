@@ -1,0 +1,18 @@
+<!-- res/layout/custom_action_bar.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center">
+
+    <!-- Your logo ImageView -->
+    <ImageView
+        android:id="@+id/lo"
+        android:layout_width="53dp"
+        android:layout_height="38dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="16dp"
+        android:src="@drawable/mag"
+    />
+
+</RelativeLayout>

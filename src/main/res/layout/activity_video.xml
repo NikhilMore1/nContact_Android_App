@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/con"
+    android:layout_height="match_parent"
+    android:background="#78b2de"
+    tools:context=".video">
+
+    <!--    <TextView-->
+    <!--        android:layout_width="207dp"-->
+    <!--        android:layout_height="60dp"-->
+    <!--        android:text="Welcome"-->
+    <!--        android:fontFamily="@font/protestguerrilla_regular"-->
+    <!--        android:textSize="25sp"-->
+    <!--        android:id="@+id/tex"-->
+    <!--        app:layout_constraintBottom_toTopOf="@+id/user_edit"-->
+    <!--        app:layout_constraintEnd_toEndOf="parent"-->
+    <!--        app:layout_constraintHorizontal_bias="0.231"-->
+    <!--        app:layout_constraintStart_toStartOf="parent"-->
+    <!--        app:layout_constraintTop_toTopOf="parent"-->
+    <!--        app:layout_constraintVertical_bias="0.586" />-->
+
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="302dp"
+        android:layout_height="43dp"
+        android:fontFamily="@font/protestguerrilla_regular"
+        android:text="Enter your username "
+        android:textSize="25sp"
+        app:layout_constraintBottom_toTopOf="@+id/user_edit"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/image"
+        app:layout_constraintVertical_bias="0.429" />
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="161dp"
+        android:layout_height="166dp"
+        android:src="@drawable/video"
+        app:layout_constraintBottom_toTopOf="@+id/user_edit"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.387" />
+
+    ;
+
+    <TextView
+        android:id="@+id/use"
+        android:layout_width="155dp"
+        android:layout_height="37dp"
+        app:layout_constraintBottom_toTopOf="@+id/user_edit"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.512"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/textView5"
+        app:layout_constraintVertical_bias="0.794" />
+
+    <EditText
+        android:id="@+id/user_edit"
+        android:layout_width="309dp"
+        android:layout_height="68dp"
+        android:layout_marginHorizontal="40dp"
+        android:layout_marginTop="428dp"
+        android:hint="user"
+        android:paddingHorizontal="12dp"
+        android:textAlignment="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.535"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn_start"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginHorizontal="40dp"
+        android:text="start"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.525"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/user_edit"
+        app:layout_constraintVertical_bias="0.301" />
+</androidx.constraintlayout.widget.ConstraintLayout>
