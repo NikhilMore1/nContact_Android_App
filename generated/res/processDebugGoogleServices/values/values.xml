@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://ncontact-df87b-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">363120003177</string>
+    <string name="google_api_key" translatable="false">AIzaSyDHiqmlCnlFnSKsJJni129toOJxyZ_cMM0</string>
+    <string name="google_app_id" translatable="false">1:363120003177:android:08edbf96172700641b3af8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDHiqmlCnlFnSKsJJni129toOJxyZ_cMM0</string>
+    <string name="google_storage_bucket" translatable="false">ncontact-df87b.appspot.com</string>
+    <string name="project_id" translatable="false">ncontact-df87b</string>
+</resources>
