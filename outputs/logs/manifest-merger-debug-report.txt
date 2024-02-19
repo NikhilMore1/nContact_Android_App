@@ -1,0 +1,1114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:2:1-68:12
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:2:1-40:12
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:2:1-29:12
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\moren\.gradle\caches\transforms-3\1422766091b7cef41ca142419fa64c4c\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\moren\.gradle\caches\transforms-3\56844133184a7e1a3c9b7acf871276c0\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\moren\.gradle\caches\transforms-3\40a5047fd4c2a9f544064fea37e22d26\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.guolindev.permissionx:permissionx:1.7.1] C:\Users\moren\.gradle\caches\transforms-3\d25c9d5f399b7d074be39598492a2122\transformed\permissionx-1.7.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\moren\.gradle\caches\transforms-3\757a0cc52726944fb7f366d3034185e0\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\b437df1d2a3c4c0de16a3d1fdcc1938b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\e6f52f9e3b5be7a3132488df9e07b37b\transformed\firebase-database-20.3.0\AndroidManifest.xml:15:1-38:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\moren\.gradle\caches\transforms-3\ac4d60b6340d8482a4d10bdea69c36d0\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moren\.gradle\caches\transforms-3\0f5a50c081f1af26f4b3d165c9a6aac3\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\moren\.gradle\caches\transforms-3\0e565df64222e6dcddaa645f2c8b8ea0\transformed\glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\27686353c897913b768d14acd4057b11\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_signaling_plugin_android:2.4.0] C:\Users\moren\.gradle\caches\transforms-3\b22f9bea05a81995c6ffa2bf0d828efa\transformed\zego_uikit_signaling_plugin_android-2.4.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:17:1-66:12
+MERGED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\moren\.gradle\caches\transforms-3\8a6be2b99fb107f985bc0edcd9bc339d\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\moren\.gradle\caches\transforms-3\68f593915c2a2130e94eff7ed4ba6b17\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\moren\.gradle\caches\transforms-3\793d234bf3af2ef079ed18a09da86612\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\moren\.gradle\caches\transforms-3\88356c5e00e0167bc54e4a557033dcd1\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\moren\.gradle\caches\transforms-3\36b76c4903025ff4d5f9eec9a64b9df2\transformed\firebase-installations-17.2.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0f1f9166d243c9644dd80aebd2a2082d\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0c3c1a60595b4b61db0d796a5b7ba719\transformed\firebase-common-20.4.2\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\moren\.gradle\caches\transforms-3\5d372c552201c2da79fc4411ce20ba64\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\moren\.gradle\caches\transforms-3\d076df1f4825eb8b1eebed6161704f86\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.1.0] C:\Users\moren\.gradle\caches\transforms-3\d538ae5d74e69ba05065f7221ffd4188\transformed\play-services-cloud-messaging-17.1.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\moren\.gradle\caches\transforms-3\454730fe3fba3ff57f6aa08ca829a3da\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\774ec3aa96a4f6210ee796f4b00a13ee\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\moren\.gradle\caches\transforms-3\3e5ce0e0c3d1134ecb8243d0cff44d0d\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\0e8676b4fb25384bdd786241d2f91690\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\580c8565df55f4e211728a7a24b5babe\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\moren\.gradle\caches\transforms-3\abecfa9e1d47c16a8cb4fe359d20845f\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\960764a28c6c0d52e060d956f6bd5729\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\67ddae7bac68bb149ed4d8e60e70b941\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\fe862b6a5af8d2904ce48435237d99c1\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\c6be1edf1ee3d34de4a1cad10e354273\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\24c73f2100fb350003fef7f982f72886\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\7e0dfb5fb2eadd15ef315d1287c36c16\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\moren\.gradle\caches\transforms-3\99b753f4d3d09c905e2bbad784685b91\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\moren\.gradle\caches\transforms-3\49f299f9e5ee475fb2f9c3b76d967a11\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\moren\.gradle\caches\transforms-3\930615f2574db423ab9fd4cd859ec84b\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\moren\.gradle\caches\transforms-3\206cf13f12a435de3a20331e9dc0f99d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\moren\.gradle\caches\transforms-3\9761473b1a2065310b8ed340d909605a\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\moren\.gradle\caches\transforms-3\5f9c026a130a94e67c95333d540f6111\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\moren\.gradle\caches\transforms-3\deb72e8c5972252af984ae49bfc81200\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\moren\.gradle\caches\transforms-3\59e87a1009db5de66d17098f6397c1bd\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\moren\.gradle\caches\transforms-3\07f9cb050163222ffc571c16f4622545\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\moren\.gradle\caches\transforms-3\10f6556e2d52db5218cdace48b4da485\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_plugin_adapter_android:2.2.0] C:\Users\moren\.gradle\caches\transforms-3\f1c33fbf5f473f6cd3106c04c14ddce6\transformed\zego_uikit_plugin_adapter_android-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\moren\.gradle\caches\transforms-3\f3847b08ad6f95aed94f71e1da152b94\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\9ebcad3e1a95605dbb8f4813ea16bf51\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\moren\.gradle\caches\transforms-3\539ad7c6123ed704313782c1a4cf71a8\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\moren\.gradle\caches\transforms-3\26e1284fcb1c5119c75675c2a8b14556\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\moren\.gradle\caches\transforms-3\101ce8506a63f69ee267905fac1ae4a3\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\463e503dd456dfc60de7d8caa7962f3f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\1d77e65d1d6d0c3f1e38e3ecc95f4bb5\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\moren\.gradle\caches\transforms-3\3324ca20c8b56be5866be8620cf4a487\transformed\gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\moren\.gradle\caches\transforms-3\92bd4dcd099206d5de06109341b3b510\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\moren\.gradle\caches\transforms-3\2a566d411276dc00961015fff2dbaafb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\28eecb8d852f7dad20bd0b0f3eead5d9\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.tencent:mmkv:1.3.1] C:\Users\moren\.gradle\caches\transforms-3\2dc614baa6b3f1e909d3de263a8f1796\transformed\mmkv-1.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\moren\.gradle\caches\transforms-3\0de58f5cf8aa8c649bd834f65bea3bb3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\d1e7e74599e840cbb0d5f438bd64cfad\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\moren\.gradle\caches\transforms-3\004ddf40442747af212ba398a7e4145c\transformed\viewbinding-7.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\moren\.gradle\caches\transforms-3\58e4e0ef7b9ce162fa11b26b84e7a600\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:15:1-33:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\aff98f89e501da91b836e75c7ee60364\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\d4f6311f553a0a1e8e571effcb176f14\transformed\transport-runtime-3.1.8\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] C:\Users\moren\.gradle\caches\transforms-3\a86e059560690f6efc682ca7cb7590e2\transformed\transport-api-3.1.0\AndroidManifest.xml:15:1-20:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\moren\.gradle\caches\transforms-3\9bc5c7e889435ed95cb3a51f045e8231\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\moren\.gradle\caches\transforms-3\973a6ca7ab1f46552e24b12e58db949e\transformed\firebase-components-17.1.5\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\moren\.gradle\caches\transforms-3\fa7a1093a0990cb037a285c4a44ce199\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\9b19f5c6766e361aa5cc190068ffd205\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\000294d983052f968f62f4acd30d397c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\638301c54aee837a3d7a9b689a4c7c80\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\0a651862ac5e780f75f913f52aae94b0\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [im.zego:zim:2.12.0] C:\Users\moren\.gradle\caches\transforms-3\32de526833eecd7577f5e1e7093dbe72\transformed\zim-2.12.0\AndroidManifest.xml:2:1-9:12
+MERGED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:2:1-142:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\moren\.gradle\caches\transforms-3\6cc2374a1f4d70ca68feabe059e64d3c\transformed\timber-4.7.1\AndroidManifest.xml:2:1-9:12
+MERGED from [im.zego:express-video:3.12.2] C:\Users\moren\.gradle\caches\transforms-3\b695e1b2280d99806fb5df0fc604cefc\transformed\express-video-3.12.2\AndroidManifest.xml:2:1-24:12
+	package
+		INJECTED from D:\android_app\nContact\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\android_app\nContact\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\android_app\nContact\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.telephony
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:5:5-7:36
+	android:required
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:7:9-33
+	android:name
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:6:9-50
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:9:5-69
+	android:name
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:9:22-66
+uses-permission#android.permission.CAMERA
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:10:5-65
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:14:5-65
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:10:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:12:5-60
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:26:5-60
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:26:5-60
+	android:name
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:12:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:13:5-70
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:27:5-70
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:27:5-70
+	android:name
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:13:19-67
+uses-feature#android.hardware.camera.front
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:14:19-63
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:15:19-73
+uses-permission#android.permission.INTERNET
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:16:5-67
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:11:5-67
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\b437df1d2a3c4c0de16a3d1fdcc1938b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\b437df1d2a3c4c0de16a3d1fdcc1938b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\e6f52f9e3b5be7a3132488df9e07b37b\transformed\firebase-database-20.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\e6f52f9e3b5be7a3132488df9e07b37b\transformed\firebase-database-20.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\moren\.gradle\caches\transforms-3\36b76c4903025ff4d5f9eec9a64b9df2\transformed\firebase-installations-17.2.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\moren\.gradle\caches\transforms-3\36b76c4903025ff4d5f9eec9a64b9df2\transformed\firebase-installations-17.2.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.1.0] C:\Users\moren\.gradle\caches\transforms-3\d538ae5d74e69ba05065f7221ffd4188\transformed\play-services-cloud-messaging-17.1.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.1.0] C:\Users\moren\.gradle\caches\transforms-3\d538ae5d74e69ba05065f7221ffd4188\transformed\play-services-cloud-messaging-17.1.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\aff98f89e501da91b836e75c7ee60364\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\aff98f89e501da91b836e75c7ee60364\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:25:5-67
+MERGED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:10:5-67
+MERGED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:18:5-77
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:9:5-77
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:9:5-77
+MERGED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:23:5-77
+MERGED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:23:5-77
+	android:name
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:18:22-74
+application
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:20:5-66:19
+INJECTED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:20:5-66:19
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:16:5-38:19
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:16:5-38:19
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\moren\.gradle\caches\transforms-3\1422766091b7cef41ca142419fa64c4c\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\moren\.gradle\caches\transforms-3\1422766091b7cef41ca142419fa64c4c\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\moren\.gradle\caches\transforms-3\56844133184a7e1a3c9b7acf871276c0\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\moren\.gradle\caches\transforms-3\56844133184a7e1a3c9b7acf871276c0\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\b437df1d2a3c4c0de16a3d1fdcc1938b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\b437df1d2a3c4c0de16a3d1fdcc1938b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\e6f52f9e3b5be7a3132488df9e07b37b\transformed\firebase-database-20.3.0\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\e6f52f9e3b5be7a3132488df9e07b37b\transformed\firebase-database-20.3.0\AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moren\.gradle\caches\transforms-3\0f5a50c081f1af26f4b3d165c9a6aac3\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moren\.gradle\caches\transforms-3\0f5a50c081f1af26f4b3d165c9a6aac3\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_signaling_plugin_android:2.4.0] C:\Users\moren\.gradle\caches\transforms-3\b22f9bea05a81995c6ffa2bf0d828efa\transformed\zego_uikit_signaling_plugin_android-2.4.0\AndroidManifest.xml:13:5-22:19
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_signaling_plugin_android:2.4.0] C:\Users\moren\.gradle\caches\transforms-3\b22f9bea05a81995c6ffa2bf0d828efa\transformed\zego_uikit_signaling_plugin_android-2.4.0\AndroidManifest.xml:13:5-22:19
+MERGED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:28:5-64:19
+MERGED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:28:5-64:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\moren\.gradle\caches\transforms-3\8a6be2b99fb107f985bc0edcd9bc339d\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\moren\.gradle\caches\transforms-3\8a6be2b99fb107f985bc0edcd9bc339d\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\moren\.gradle\caches\transforms-3\68f593915c2a2130e94eff7ed4ba6b17\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\moren\.gradle\caches\transforms-3\68f593915c2a2130e94eff7ed4ba6b17\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\moren\.gradle\caches\transforms-3\88356c5e00e0167bc54e4a557033dcd1\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\moren\.gradle\caches\transforms-3\88356c5e00e0167bc54e4a557033dcd1\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\moren\.gradle\caches\transforms-3\36b76c4903025ff4d5f9eec9a64b9df2\transformed\firebase-installations-17.2.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\moren\.gradle\caches\transforms-3\36b76c4903025ff4d5f9eec9a64b9df2\transformed\firebase-installations-17.2.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0f1f9166d243c9644dd80aebd2a2082d\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0f1f9166d243c9644dd80aebd2a2082d\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0c3c1a60595b4b61db0d796a5b7ba719\transformed\firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0c3c1a60595b4b61db0d796a5b7ba719\transformed\firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\moren\.gradle\caches\transforms-3\5d372c552201c2da79fc4411ce20ba64\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\moren\.gradle\caches\transforms-3\5d372c552201c2da79fc4411ce20ba64\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\moren\.gradle\caches\transforms-3\d076df1f4825eb8b1eebed6161704f86\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\moren\.gradle\caches\transforms-3\d076df1f4825eb8b1eebed6161704f86\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\moren\.gradle\caches\transforms-3\3e5ce0e0c3d1134ecb8243d0cff44d0d\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\moren\.gradle\caches\transforms-3\3e5ce0e0c3d1134ecb8243d0cff44d0d\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\960764a28c6c0d52e060d956f6bd5729\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\960764a28c6c0d52e060d956f6bd5729\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\moren\.gradle\caches\transforms-3\49f299f9e5ee475fb2f9c3b76d967a11\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\moren\.gradle\caches\transforms-3\49f299f9e5ee475fb2f9c3b76d967a11\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\moren\.gradle\caches\transforms-3\930615f2574db423ab9fd4cd859ec84b\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\moren\.gradle\caches\transforms-3\930615f2574db423ab9fd4cd859ec84b\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\moren\.gradle\caches\transforms-3\206cf13f12a435de3a20331e9dc0f99d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\moren\.gradle\caches\transforms-3\206cf13f12a435de3a20331e9dc0f99d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\moren\.gradle\caches\transforms-3\101ce8506a63f69ee267905fac1ae4a3\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\moren\.gradle\caches\transforms-3\101ce8506a63f69ee267905fac1ae4a3\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\moren\.gradle\caches\transforms-3\2a566d411276dc00961015fff2dbaafb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\moren\.gradle\caches\transforms-3\2a566d411276dc00961015fff2dbaafb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\moren\.gradle\caches\transforms-3\0de58f5cf8aa8c649bd834f65bea3bb3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\moren\.gradle\caches\transforms-3\0de58f5cf8aa8c649bd834f65bea3bb3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\moren\.gradle\caches\transforms-3\58e4e0ef7b9ce162fa11b26b84e7a600\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\moren\.gradle\caches\transforms-3\58e4e0ef7b9ce162fa11b26b84e7a600\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\aff98f89e501da91b836e75c7ee60364\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\aff98f89e501da91b836e75c7ee60364\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\d4f6311f553a0a1e8e571effcb176f14\transformed\transport-runtime-3.1.8\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\d4f6311f553a0a1e8e571effcb176f14\transformed\transport-runtime-3.1.8\AndroidManifest.xml:25:5-39:19
+MERGED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:24:5-140:19
+MERGED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:24:5-140:19
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\moren\.gradle\caches\transforms-3\6cc2374a1f4d70ca68feabe059e64d3c\transformed\timber-4.7.1\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\moren\.gradle\caches\transforms-3\6cc2374a1f4d70ca68feabe059e64d3c\transformed\timber-4.7.1\AndroidManifest.xml:7:5-20
+MERGED from [im.zego:express-video:3.12.2] C:\Users\moren\.gradle\caches\transforms-3\b695e1b2280d99806fb5df0fc604cefc\transformed\express-video-3.12.2\AndroidManifest.xml:9:5-22:19
+MERGED from [im.zego:express-video:3.12.2] C:\Users\moren\.gradle\caches\transforms-3\b695e1b2280d99806fb5df0fc604cefc\transformed\express-video-3.12.2\AndroidManifest.xml:9:5-22:19
+	android:extractNativeLibs
+		INJECTED from D:\android_app\nContact\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\moren\.gradle\caches\transforms-3\101ce8506a63f69ee267905fac1ae4a3\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:25:9-41
+	android:fullBackupContent
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:23:9-54
+	android:roundIcon
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:26:9-54
+	tools:targetApi
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:29:9-29
+	android:icon
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:28:9-46
+	android:dataExtractionRules
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:22:9-65
+activity#com.example.ncontact.call
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:30:9-32:40
+	android:exported
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:31:13-33
+activity#com.example.ncontact.video
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:33:9-35:40
+	android:exported
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:34:13-34
+activity#com.example.ncontact.notification
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:37:13-41
+activity#com.example.ncontact.Registration
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:39:9-41:40
+	android:exported
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:40:13-41
+activity#com.example.ncontact.log_page
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:42:9-44:40
+	android:exported
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:43:13-37
+activity#com.example.ncontact.cont_info
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:46:13-38
+activity#com.example.ncontact.addContact
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:48:9-50:40
+	android:exported
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:49:13-39
+activity#com.example.ncontact.cust_act
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:51:9-53:40
+	android:exported
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:52:13-37
+activity#com.example.ncontact.MainActivity
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:54:9-56:40
+	android:exported
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:56:13-37
+	android:name
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:55:13-41
+activity#com.example.ncontact.splash_screen
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:57:9-65:20
+	android:exported
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:59:13-36
+	android:name
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:58:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:60:13-64:29
+action#android.intent.action.MAIN
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:61:17-69
+	android:name
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:61:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:63:17-77
+	android:name
+		ADDED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:63:27-74
+uses-sdk
+INJECTED from D:\android_app\nContact\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\android_app\nContact\app\src\main\AndroidManifest.xml
+INJECTED from D:\android_app\nContact\app\src\main\AndroidManifest.xml
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\moren\.gradle\caches\transforms-3\1422766091b7cef41ca142419fa64c4c\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\moren\.gradle\caches\transforms-3\1422766091b7cef41ca142419fa64c4c\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\moren\.gradle\caches\transforms-3\56844133184a7e1a3c9b7acf871276c0\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\moren\.gradle\caches\transforms-3\56844133184a7e1a3c9b7acf871276c0\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\moren\.gradle\caches\transforms-3\40a5047fd4c2a9f544064fea37e22d26\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\moren\.gradle\caches\transforms-3\40a5047fd4c2a9f544064fea37e22d26\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.guolindev.permissionx:permissionx:1.7.1] C:\Users\moren\.gradle\caches\transforms-3\d25c9d5f399b7d074be39598492a2122\transformed\permissionx-1.7.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.guolindev.permissionx:permissionx:1.7.1] C:\Users\moren\.gradle\caches\transforms-3\d25c9d5f399b7d074be39598492a2122\transformed\permissionx-1.7.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\moren\.gradle\caches\transforms-3\757a0cc52726944fb7f366d3034185e0\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\moren\.gradle\caches\transforms-3\757a0cc52726944fb7f366d3034185e0\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\b437df1d2a3c4c0de16a3d1fdcc1938b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\b437df1d2a3c4c0de16a3d1fdcc1938b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\e6f52f9e3b5be7a3132488df9e07b37b\transformed\firebase-database-20.3.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\e6f52f9e3b5be7a3132488df9e07b37b\transformed\firebase-database-20.3.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\moren\.gradle\caches\transforms-3\ac4d60b6340d8482a4d10bdea69c36d0\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\moren\.gradle\caches\transforms-3\ac4d60b6340d8482a4d10bdea69c36d0\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moren\.gradle\caches\transforms-3\0f5a50c081f1af26f4b3d165c9a6aac3\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moren\.gradle\caches\transforms-3\0f5a50c081f1af26f4b3d165c9a6aac3\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\moren\.gradle\caches\transforms-3\0e565df64222e6dcddaa645f2c8b8ea0\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\moren\.gradle\caches\transforms-3\0e565df64222e6dcddaa645f2c8b8ea0\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\27686353c897913b768d14acd4057b11\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\27686353c897913b768d14acd4057b11\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_signaling_plugin_android:2.4.0] C:\Users\moren\.gradle\caches\transforms-3\b22f9bea05a81995c6ffa2bf0d828efa\transformed\zego_uikit_signaling_plugin_android-2.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_signaling_plugin_android:2.4.0] C:\Users\moren\.gradle\caches\transforms-3\b22f9bea05a81995c6ffa2bf0d828efa\transformed\zego_uikit_signaling_plugin_android-2.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\moren\.gradle\caches\transforms-3\8a6be2b99fb107f985bc0edcd9bc339d\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\moren\.gradle\caches\transforms-3\8a6be2b99fb107f985bc0edcd9bc339d\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\moren\.gradle\caches\transforms-3\68f593915c2a2130e94eff7ed4ba6b17\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\moren\.gradle\caches\transforms-3\68f593915c2a2130e94eff7ed4ba6b17\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\moren\.gradle\caches\transforms-3\793d234bf3af2ef079ed18a09da86612\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\moren\.gradle\caches\transforms-3\793d234bf3af2ef079ed18a09da86612\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\moren\.gradle\caches\transforms-3\88356c5e00e0167bc54e4a557033dcd1\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\moren\.gradle\caches\transforms-3\88356c5e00e0167bc54e4a557033dcd1\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\moren\.gradle\caches\transforms-3\36b76c4903025ff4d5f9eec9a64b9df2\transformed\firebase-installations-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\moren\.gradle\caches\transforms-3\36b76c4903025ff4d5f9eec9a64b9df2\transformed\firebase-installations-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0f1f9166d243c9644dd80aebd2a2082d\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0f1f9166d243c9644dd80aebd2a2082d\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0c3c1a60595b4b61db0d796a5b7ba719\transformed\firebase-common-20.4.2\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0c3c1a60595b4b61db0d796a5b7ba719\transformed\firebase-common-20.4.2\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\moren\.gradle\caches\transforms-3\5d372c552201c2da79fc4411ce20ba64\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\moren\.gradle\caches\transforms-3\5d372c552201c2da79fc4411ce20ba64\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\moren\.gradle\caches\transforms-3\d076df1f4825eb8b1eebed6161704f86\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\moren\.gradle\caches\transforms-3\d076df1f4825eb8b1eebed6161704f86\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.1.0] C:\Users\moren\.gradle\caches\transforms-3\d538ae5d74e69ba05065f7221ffd4188\transformed\play-services-cloud-messaging-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.1.0] C:\Users\moren\.gradle\caches\transforms-3\d538ae5d74e69ba05065f7221ffd4188\transformed\play-services-cloud-messaging-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\moren\.gradle\caches\transforms-3\454730fe3fba3ff57f6aa08ca829a3da\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\moren\.gradle\caches\transforms-3\454730fe3fba3ff57f6aa08ca829a3da\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\774ec3aa96a4f6210ee796f4b00a13ee\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\774ec3aa96a4f6210ee796f4b00a13ee\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\moren\.gradle\caches\transforms-3\3e5ce0e0c3d1134ecb8243d0cff44d0d\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\moren\.gradle\caches\transforms-3\3e5ce0e0c3d1134ecb8243d0cff44d0d\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\0e8676b4fb25384bdd786241d2f91690\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\0e8676b4fb25384bdd786241d2f91690\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\580c8565df55f4e211728a7a24b5babe\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\580c8565df55f4e211728a7a24b5babe\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\moren\.gradle\caches\transforms-3\abecfa9e1d47c16a8cb4fe359d20845f\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\moren\.gradle\caches\transforms-3\abecfa9e1d47c16a8cb4fe359d20845f\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\960764a28c6c0d52e060d956f6bd5729\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\960764a28c6c0d52e060d956f6bd5729\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\67ddae7bac68bb149ed4d8e60e70b941\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\67ddae7bac68bb149ed4d8e60e70b941\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\fe862b6a5af8d2904ce48435237d99c1\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\fe862b6a5af8d2904ce48435237d99c1\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\c6be1edf1ee3d34de4a1cad10e354273\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\c6be1edf1ee3d34de4a1cad10e354273\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\24c73f2100fb350003fef7f982f72886\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\24c73f2100fb350003fef7f982f72886\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\7e0dfb5fb2eadd15ef315d1287c36c16\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\7e0dfb5fb2eadd15ef315d1287c36c16\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\moren\.gradle\caches\transforms-3\99b753f4d3d09c905e2bbad784685b91\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\moren\.gradle\caches\transforms-3\99b753f4d3d09c905e2bbad784685b91\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\moren\.gradle\caches\transforms-3\49f299f9e5ee475fb2f9c3b76d967a11\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\moren\.gradle\caches\transforms-3\49f299f9e5ee475fb2f9c3b76d967a11\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\moren\.gradle\caches\transforms-3\930615f2574db423ab9fd4cd859ec84b\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\moren\.gradle\caches\transforms-3\930615f2574db423ab9fd4cd859ec84b\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\moren\.gradle\caches\transforms-3\206cf13f12a435de3a20331e9dc0f99d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\moren\.gradle\caches\transforms-3\206cf13f12a435de3a20331e9dc0f99d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\moren\.gradle\caches\transforms-3\9761473b1a2065310b8ed340d909605a\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\moren\.gradle\caches\transforms-3\9761473b1a2065310b8ed340d909605a\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\moren\.gradle\caches\transforms-3\5f9c026a130a94e67c95333d540f6111\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\moren\.gradle\caches\transforms-3\5f9c026a130a94e67c95333d540f6111\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\moren\.gradle\caches\transforms-3\deb72e8c5972252af984ae49bfc81200\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\moren\.gradle\caches\transforms-3\deb72e8c5972252af984ae49bfc81200\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\moren\.gradle\caches\transforms-3\59e87a1009db5de66d17098f6397c1bd\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\moren\.gradle\caches\transforms-3\59e87a1009db5de66d17098f6397c1bd\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\moren\.gradle\caches\transforms-3\07f9cb050163222ffc571c16f4622545\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\moren\.gradle\caches\transforms-3\07f9cb050163222ffc571c16f4622545\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\moren\.gradle\caches\transforms-3\10f6556e2d52db5218cdace48b4da485\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\moren\.gradle\caches\transforms-3\10f6556e2d52db5218cdace48b4da485\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_plugin_adapter_android:2.2.0] C:\Users\moren\.gradle\caches\transforms-3\f1c33fbf5f473f6cd3106c04c14ddce6\transformed\zego_uikit_plugin_adapter_android-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_plugin_adapter_android:2.2.0] C:\Users\moren\.gradle\caches\transforms-3\f1c33fbf5f473f6cd3106c04c14ddce6\transformed\zego_uikit_plugin_adapter_android-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\moren\.gradle\caches\transforms-3\f3847b08ad6f95aed94f71e1da152b94\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\moren\.gradle\caches\transforms-3\f3847b08ad6f95aed94f71e1da152b94\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\9ebcad3e1a95605dbb8f4813ea16bf51\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\9ebcad3e1a95605dbb8f4813ea16bf51\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\moren\.gradle\caches\transforms-3\539ad7c6123ed704313782c1a4cf71a8\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\moren\.gradle\caches\transforms-3\539ad7c6123ed704313782c1a4cf71a8\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\moren\.gradle\caches\transforms-3\26e1284fcb1c5119c75675c2a8b14556\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\moren\.gradle\caches\transforms-3\26e1284fcb1c5119c75675c2a8b14556\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\moren\.gradle\caches\transforms-3\101ce8506a63f69ee267905fac1ae4a3\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\moren\.gradle\caches\transforms-3\101ce8506a63f69ee267905fac1ae4a3\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\463e503dd456dfc60de7d8caa7962f3f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\463e503dd456dfc60de7d8caa7962f3f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\1d77e65d1d6d0c3f1e38e3ecc95f4bb5\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\1d77e65d1d6d0c3f1e38e3ecc95f4bb5\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\moren\.gradle\caches\transforms-3\3324ca20c8b56be5866be8620cf4a487\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\moren\.gradle\caches\transforms-3\3324ca20c8b56be5866be8620cf4a487\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\moren\.gradle\caches\transforms-3\92bd4dcd099206d5de06109341b3b510\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\moren\.gradle\caches\transforms-3\92bd4dcd099206d5de06109341b3b510\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\moren\.gradle\caches\transforms-3\2a566d411276dc00961015fff2dbaafb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\moren\.gradle\caches\transforms-3\2a566d411276dc00961015fff2dbaafb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\28eecb8d852f7dad20bd0b0f3eead5d9\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\28eecb8d852f7dad20bd0b0f3eead5d9\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.tencent:mmkv:1.3.1] C:\Users\moren\.gradle\caches\transforms-3\2dc614baa6b3f1e909d3de263a8f1796\transformed\mmkv-1.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent:mmkv:1.3.1] C:\Users\moren\.gradle\caches\transforms-3\2dc614baa6b3f1e909d3de263a8f1796\transformed\mmkv-1.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\moren\.gradle\caches\transforms-3\0de58f5cf8aa8c649bd834f65bea3bb3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\moren\.gradle\caches\transforms-3\0de58f5cf8aa8c649bd834f65bea3bb3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\d1e7e74599e840cbb0d5f438bd64cfad\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\d1e7e74599e840cbb0d5f438bd64cfad\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\moren\.gradle\caches\transforms-3\004ddf40442747af212ba398a7e4145c\transformed\viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.2] C:\Users\moren\.gradle\caches\transforms-3\004ddf40442747af212ba398a7e4145c\transformed\viewbinding-7.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\moren\.gradle\caches\transforms-3\58e4e0ef7b9ce162fa11b26b84e7a600\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\moren\.gradle\caches\transforms-3\58e4e0ef7b9ce162fa11b26b84e7a600\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\aff98f89e501da91b836e75c7ee60364\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\aff98f89e501da91b836e75c7ee60364\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\d4f6311f553a0a1e8e571effcb176f14\transformed\transport-runtime-3.1.8\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\d4f6311f553a0a1e8e571effcb176f14\transformed\transport-runtime-3.1.8\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] C:\Users\moren\.gradle\caches\transforms-3\a86e059560690f6efc682ca7cb7590e2\transformed\transport-api-3.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] C:\Users\moren\.gradle\caches\transforms-3\a86e059560690f6efc682ca7cb7590e2\transformed\transport-api-3.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\moren\.gradle\caches\transforms-3\9bc5c7e889435ed95cb3a51f045e8231\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\moren\.gradle\caches\transforms-3\9bc5c7e889435ed95cb3a51f045e8231\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\moren\.gradle\caches\transforms-3\973a6ca7ab1f46552e24b12e58db949e\transformed\firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\moren\.gradle\caches\transforms-3\973a6ca7ab1f46552e24b12e58db949e\transformed\firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\moren\.gradle\caches\transforms-3\fa7a1093a0990cb037a285c4a44ce199\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\moren\.gradle\caches\transforms-3\fa7a1093a0990cb037a285c4a44ce199\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\9b19f5c6766e361aa5cc190068ffd205\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\9b19f5c6766e361aa5cc190068ffd205\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\000294d983052f968f62f4acd30d397c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\000294d983052f968f62f4acd30d397c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\638301c54aee837a3d7a9b689a4c7c80\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\moren\.gradle\caches\transforms-3\638301c54aee837a3d7a9b689a4c7c80\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\0a651862ac5e780f75f913f52aae94b0\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\0a651862ac5e780f75f913f52aae94b0\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [im.zego:zim:2.12.0] C:\Users\moren\.gradle\caches\transforms-3\32de526833eecd7577f5e1e7093dbe72\transformed\zim-2.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [im.zego:zim:2.12.0] C:\Users\moren\.gradle\caches\transforms-3\32de526833eecd7577f5e1e7093dbe72\transformed\zim-2.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\moren\.gradle\caches\transforms-3\6cc2374a1f4d70ca68feabe059e64d3c\transformed\timber-4.7.1\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\moren\.gradle\caches\transforms-3\6cc2374a1f4d70ca68feabe059e64d3c\transformed\timber-4.7.1\AndroidManifest.xml:5:5-43
+MERGED from [im.zego:express-video:3.12.2] C:\Users\moren\.gradle\caches\transforms-3\b695e1b2280d99806fb5df0fc604cefc\transformed\express-video-3.12.2\AndroidManifest.xml:5:5-7:40
+MERGED from [im.zego:express-video:3.12.2] C:\Users\moren\.gradle\caches\transforms-3\b695e1b2280d99806fb5df0fc604cefc\transformed\express-video-3.12.2\AndroidManifest.xml:5:5-7:40
+	android:targetSdkVersion
+		INJECTED from D:\android_app\nContact\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\android_app\nContact\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:10:5-72
+	android:name
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:10:22-69
+uses-permission#android.permission.VIBRATE
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:11:22-63
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:12:22-75
+uses-permission#android.permission.SYSTEM_OVERLAY_WINDOW
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:14:22-78
+activity#com.zegocloud.uikit.prebuilt.call.invite.internal.CallInviteActivity
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:17:9-23:44
+	android:excludeFromRecents
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:20:13-46
+	android:exported
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:21:13-36
+	android:showOnLockScreen
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:22:13-44
+	android:configChanges
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:19:13-135
+	android:taskAffinity
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:23:13-41
+	android:name
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:18:13-96
+service#com.zegocloud.uikit.prebuilt.call.invite.OffLineCallNotificationService
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:25:9-28:19
+	android:foregroundServiceType
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:27:13-54
+	android:name
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:26:13-99
+receiver#com.zegocloud.uikit.prebuilt.call.MyZPNsReceiver
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:30:9-37:20
+	android:enabled
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:31:13-76
+intent-filter#action:name:im.zego.zim.zpns.intent.action.MESSAGE
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:34:13-36:29
+action#im.zego.zim.zpns.intent.action.MESSAGE
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:35:17-81
+	android:name
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_prebuilt_call_android:2.10.6] C:\Users\moren\.gradle\caches\transforms-3\f83bfb9c56fc254191be2f72bcb0be95\transformed\zego_uikit_prebuilt_call_android-2.10.6\AndroidManifest.xml:35:25-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:9:5-75
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_signaling_plugin_android:2.4.0] C:\Users\moren\.gradle\caches\transforms-3\b22f9bea05a81995c6ffa2bf0d828efa\transformed\zego_uikit_signaling_plugin_android-2.4.0\AndroidManifest.xml:10:5-75
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_signaling_plugin_android:2.4.0] C:\Users\moren\.gradle\caches\transforms-3\b22f9bea05a81995c6ffa2bf0d828efa\transformed\zego_uikit_signaling_plugin_android-2.4.0\AndroidManifest.xml:10:5-75
+MERGED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:13:5-75
+MERGED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:10:5-76
+MERGED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:12:5-76
+MERGED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\b437df1d2a3c4c0de16a3d1fdcc1938b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\b437df1d2a3c4c0de16a3d1fdcc1938b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\e6f52f9e3b5be7a3132488df9e07b37b\transformed\firebase-database-20.3.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\e6f52f9e3b5be7a3132488df9e07b37b\transformed\firebase-database-20.3.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\moren\.gradle\caches\transforms-3\36b76c4903025ff4d5f9eec9a64b9df2\transformed\firebase-installations-17.2.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\moren\.gradle\caches\transforms-3\36b76c4903025ff4d5f9eec9a64b9df2\transformed\firebase-installations-17.2.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.1.0] C:\Users\moren\.gradle\caches\transforms-3\d538ae5d74e69ba05065f7221ffd4188\transformed\play-services-cloud-messaging-17.1.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.1.0] C:\Users\moren\.gradle\caches\transforms-3\d538ae5d74e69ba05065f7221ffd4188\transformed\play-services-cloud-messaging-17.1.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\aff98f89e501da91b836e75c7ee60364\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\aff98f89e501da91b836e75c7ee60364\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\d4f6311f553a0a1e8e571effcb176f14\transformed\transport-runtime-3.1.8\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\d4f6311f553a0a1e8e571effcb176f14\transformed\transport-runtime-3.1.8\AndroidManifest.xml:22:5-79
+MERGED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:11:5-79
+MERGED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.BLUETOOTH
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:16:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:17:5-81
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_signaling_plugin_android:2.4.0] C:\Users\moren\.gradle\caches\transforms-3\b22f9bea05a81995c6ffa2bf0d828efa\transformed\zego_uikit_signaling_plugin_android-2.4.0\AndroidManifest.xml:9:5-81
+MERGED from [com.github.ZEGOCLOUD:zego_uikit_signaling_plugin_android:2.4.0] C:\Users\moren\.gradle\caches\transforms-3\b22f9bea05a81995c6ffa2bf0d828efa\transformed\zego_uikit_signaling_plugin_android-2.4.0\AndroidManifest.xml:9:5-81
+MERGED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:9:5-81
+MERGED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.READ_MEDIA_IMAGES
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.READ_MEDIA_AUDIO
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:19:22-72
+uses-permission#android.permission.READ_MEDIA_VIDEO
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:20:22-72
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:21:5-77
+	android:name
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:21:22-74
+uses-feature#0x00020000
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:23:5-25:35
+	android:glEsVersion
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:24:9-41
+	android:required
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_android:2.7.6] C:\Users\moren\.gradle\caches\transforms-3\cff85ae749511babc547b307fb68948f\transformed\zego_uikit_android-2.7.6\AndroidManifest.xml:25:9-32
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\android_app\nContact\app\src\main\AndroidManifest.xml:2:1-68:12 reason: com.zegocloud.uikit requested WRITE_EXTERNAL_STORAGE
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\b437df1d2a3c4c0de16a3d1fdcc1938b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\e6f52f9e3b5be7a3132488df9e07b37b\transformed\firebase-database-20.3.0\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\e6f52f9e3b5be7a3132488df9e07b37b\transformed\firebase-database-20.3.0\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:54:9-63:19
+MERGED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:54:9-63:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\moren\.gradle\caches\transforms-3\8a6be2b99fb107f985bc0edcd9bc339d\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\moren\.gradle\caches\transforms-3\8a6be2b99fb107f985bc0edcd9bc339d\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\moren\.gradle\caches\transforms-3\36b76c4903025ff4d5f9eec9a64b9df2\transformed\firebase-installations-17.2.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\moren\.gradle\caches\transforms-3\36b76c4903025ff4d5f9eec9a64b9df2\transformed\firebase-installations-17.2.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0f1f9166d243c9644dd80aebd2a2082d\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0f1f9166d243c9644dd80aebd2a2082d\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0c3c1a60595b4b61db0d796a5b7ba719\transformed\firebase-common-20.4.2\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0c3c1a60595b4b61db0d796a5b7ba719\transformed\firebase-common-20.4.2\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\moren\.gradle\caches\transforms-3\58e4e0ef7b9ce162fa11b26b84e7a600\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\moren\.gradle\caches\transforms-3\58e4e0ef7b9ce162fa11b26b84e7a600\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\b437df1d2a3c4c0de16a3d1fdcc1938b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:29:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0c3c1a60595b4b61db0d796a5b7ba719\transformed\firebase-common-20.4.2\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0c3c1a60595b4b61db0d796a5b7ba719\transformed\firebase-common-20.4.2\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\b437df1d2a3c4c0de16a3d1fdcc1938b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:28:13-84
+meta-data#com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\b437df1d2a3c4c0de16a3d1fdcc1938b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\b437df1d2a3c4c0de16a3d1fdcc1938b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\b437df1d2a3c4c0de16a3d1fdcc1938b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:31:17-118
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\b437df1d2a3c4c0de16a3d1fdcc1938b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\b437df1d2a3c4c0de16a3d1fdcc1938b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\b437df1d2a3c4c0de16a3d1fdcc1938b\transformed\firebase-storage-20.3.0\AndroidManifest.xml:34:17-107
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\e6f52f9e3b5be7a3132488df9e07b37b\transformed\firebase-database-20.3.0\AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\e6f52f9e3b5be7a3132488df9e07b37b\transformed\firebase-database-20.3.0\AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\e6f52f9e3b5be7a3132488df9e07b37b\transformed\firebase-database-20.3.0\AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\e6f52f9e3b5be7a3132488df9e07b37b\transformed\firebase-database-20.3.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\e6f52f9e3b5be7a3132488df9e07b37b\transformed\firebase-database-20.3.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\moren\.gradle\caches\transforms-3\e6f52f9e3b5be7a3132488df9e07b37b\transformed\firebase-database-20.3.0\AndroidManifest.xml:33:17-109
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moren\.gradle\caches\transforms-3\0f5a50c081f1af26f4b3d165c9a6aac3\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\960764a28c6c0d52e060d956f6bd5729\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\960764a28c6c0d52e060d956f6bd5729\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\moren\.gradle\caches\transforms-3\2a566d411276dc00961015fff2dbaafb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\moren\.gradle\caches\transforms-3\2a566d411276dc00961015fff2dbaafb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moren\.gradle\caches\transforms-3\0f5a50c081f1af26f4b3d165c9a6aac3\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moren\.gradle\caches\transforms-3\0f5a50c081f1af26f4b3d165c9a6aac3\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moren\.gradle\caches\transforms-3\0f5a50c081f1af26f4b3d165c9a6aac3\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moren\.gradle\caches\transforms-3\0f5a50c081f1af26f4b3d165c9a6aac3\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moren\.gradle\caches\transforms-3\0f5a50c081f1af26f4b3d165c9a6aac3\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moren\.gradle\caches\transforms-3\0f5a50c081f1af26f4b3d165c9a6aac3\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\moren\.gradle\caches\transforms-3\0f5a50c081f1af26f4b3d165c9a6aac3\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+uses-permission#android.permission.GET_TASKS
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_signaling_plugin_android:2.4.0] C:\Users\moren\.gradle\caches\transforms-3\b22f9bea05a81995c6ffa2bf0d828efa\transformed\zego_uikit_signaling_plugin_android-2.4.0\AndroidManifest.xml:11:5-68
+MERGED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:14:5-68
+MERGED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_signaling_plugin_android:2.4.0] C:\Users\moren\.gradle\caches\transforms-3\b22f9bea05a81995c6ffa2bf0d828efa\transformed\zego_uikit_signaling_plugin_android-2.4.0\AndroidManifest.xml:11:22-65
+receiver#com.zegocloud.uikit.plugin.signaling.ZegoZPNsReceiver
+ADDED from [com.github.ZEGOCLOUD:zego_uikit_signaling_plugin_android:2.4.0] C:\Users\moren\.gradle\caches\transforms-3\b22f9bea05a81995c6ffa2bf0d828efa\transformed\zego_uikit_signaling_plugin_android-2.4.0\AndroidManifest.xml:14:9-21:20
+	android:enabled
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_signaling_plugin_android:2.4.0] C:\Users\moren\.gradle\caches\transforms-3\b22f9bea05a81995c6ffa2bf0d828efa\transformed\zego_uikit_signaling_plugin_android-2.4.0\AndroidManifest.xml:16:13-35
+	android:exported
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_signaling_plugin_android:2.4.0] C:\Users\moren\.gradle\caches\transforms-3\b22f9bea05a81995c6ffa2bf0d828efa\transformed\zego_uikit_signaling_plugin_android-2.4.0\AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from [com.github.ZEGOCLOUD:zego_uikit_signaling_plugin_android:2.4.0] C:\Users\moren\.gradle\caches\transforms-3\b22f9bea05a81995c6ffa2bf0d828efa\transformed\zego_uikit_signaling_plugin_android-2.4.0\AndroidManifest.xml:15:13-81
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.1.0] C:\Users\moren\.gradle\caches\transforms-3\d538ae5d74e69ba05065f7221ffd4188\transformed\play-services-cloud-messaging-17.1.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.1.0] C:\Users\moren\.gradle\caches\transforms-3\d538ae5d74e69ba05065f7221ffd4188\transformed\play-services-cloud-messaging-17.1.0\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.1.0] C:\Users\moren\.gradle\caches\transforms-3\d538ae5d74e69ba05065f7221ffd4188\transformed\play-services-cloud-messaging-17.1.0\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.1.0] C:\Users\moren\.gradle\caches\transforms-3\d538ae5d74e69ba05065f7221ffd4188\transformed\play-services-cloud-messaging-17.1.0\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:26:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:29:9-40:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:31:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:32:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:30:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:33:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:34:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:34:25-78
+meta-data#com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED
+ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:37:13-39:40
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:39:17-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:38:17-92
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:46:9-53:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:49:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:48:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:47:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:50:13-52:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:50:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:51:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:51:25-75
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:57:13-59:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:59:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:58:17-122
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:60:13-62:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:62:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.4.0] C:\Users\moren\.gradle\caches\transforms-3\f4623870eef2e1b5b2ee2f3b10951c6e\transformed\firebase-messaging-23.4.0\AndroidManifest.xml:61:17-119
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\moren\.gradle\caches\transforms-3\8a6be2b99fb107f985bc0edcd9bc339d\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\moren\.gradle\caches\transforms-3\8a6be2b99fb107f985bc0edcd9bc339d\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\moren\.gradle\caches\transforms-3\8a6be2b99fb107f985bc0edcd9bc339d\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:26:17-120
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\moren\.gradle\caches\transforms-3\8a6be2b99fb107f985bc0edcd9bc339d\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\moren\.gradle\caches\transforms-3\8a6be2b99fb107f985bc0edcd9bc339d\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:17.1.1] C:\Users\moren\.gradle\caches\transforms-3\8a6be2b99fb107f985bc0edcd9bc339d\transformed\firebase-appcheck-17.1.1\AndroidManifest.xml:29:17-117
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\moren\.gradle\caches\transforms-3\88356c5e00e0167bc54e4a557033dcd1\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\moren\.gradle\caches\transforms-3\88356c5e00e0167bc54e4a557033dcd1\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\moren\.gradle\caches\transforms-3\88356c5e00e0167bc54e4a557033dcd1\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\moren\.gradle\caches\transforms-3\88356c5e00e0167bc54e4a557033dcd1\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\moren\.gradle\caches\transforms-3\36b76c4903025ff4d5f9eec9a64b9df2\transformed\firebase-installations-17.2.0\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\moren\.gradle\caches\transforms-3\36b76c4903025ff4d5f9eec9a64b9df2\transformed\firebase-installations-17.2.0\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\moren\.gradle\caches\transforms-3\36b76c4903025ff4d5f9eec9a64b9df2\transformed\firebase-installations-17.2.0\AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\moren\.gradle\caches\transforms-3\36b76c4903025ff4d5f9eec9a64b9df2\transformed\firebase-installations-17.2.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\moren\.gradle\caches\transforms-3\36b76c4903025ff4d5f9eec9a64b9df2\transformed\firebase-installations-17.2.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] C:\Users\moren\.gradle\caches\transforms-3\36b76c4903025ff4d5f9eec9a64b9df2\transformed\firebase-installations-17.2.0\AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0f1f9166d243c9644dd80aebd2a2082d\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0f1f9166d243c9644dd80aebd2a2082d\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0f1f9166d243c9644dd80aebd2a2082d\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0c3c1a60595b4b61db0d796a5b7ba719\transformed\firebase-common-20.4.2\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0c3c1a60595b4b61db0d796a5b7ba719\transformed\firebase-common-20.4.2\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0c3c1a60595b4b61db0d796a5b7ba719\transformed\firebase-common-20.4.2\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0c3c1a60595b4b61db0d796a5b7ba719\transformed\firebase-common-20.4.2\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0c3c1a60595b4b61db0d796a5b7ba719\transformed\firebase-common-20.4.2\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0c3c1a60595b4b61db0d796a5b7ba719\transformed\firebase-common-20.4.2\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0c3c1a60595b4b61db0d796a5b7ba719\transformed\firebase-common-20.4.2\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0c3c1a60595b4b61db0d796a5b7ba719\transformed\firebase-common-20.4.2\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\moren\.gradle\caches\transforms-3\0c3c1a60595b4b61db0d796a5b7ba719\transformed\firebase-common-20.4.2\AndroidManifest.xml:36:17-109
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\960764a28c6c0d52e060d956f6bd5729\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\960764a28c6c0d52e060d956f6bd5729\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\moren\.gradle\caches\transforms-3\960764a28c6c0d52e060d956f6bd5729\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\moren\.gradle\caches\transforms-3\206cf13f12a435de3a20331e9dc0f99d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\moren\.gradle\caches\transforms-3\206cf13f12a435de3a20331e9dc0f99d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\moren\.gradle\caches\transforms-3\206cf13f12a435de3a20331e9dc0f99d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\moren\.gradle\caches\transforms-3\101ce8506a63f69ee267905fac1ae4a3\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\moren\.gradle\caches\transforms-3\101ce8506a63f69ee267905fac1ae4a3\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\moren\.gradle\caches\transforms-3\101ce8506a63f69ee267905fac1ae4a3\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.ncontact.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\moren\.gradle\caches\transforms-3\101ce8506a63f69ee267905fac1ae4a3\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\moren\.gradle\caches\transforms-3\101ce8506a63f69ee267905fac1ae4a3\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\moren\.gradle\caches\transforms-3\101ce8506a63f69ee267905fac1ae4a3\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\moren\.gradle\caches\transforms-3\101ce8506a63f69ee267905fac1ae4a3\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\moren\.gradle\caches\transforms-3\101ce8506a63f69ee267905fac1ae4a3\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.ncontact.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\moren\.gradle\caches\transforms-3\101ce8506a63f69ee267905fac1ae4a3\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\moren\.gradle\caches\transforms-3\101ce8506a63f69ee267905fac1ae4a3\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\moren\.gradle\caches\transforms-3\c7e91db37435c8e20cbc4e28b2e5544e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\moren\.gradle\caches\transforms-3\58e4e0ef7b9ce162fa11b26b84e7a600\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:27:13-29:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\moren\.gradle\caches\transforms-3\58e4e0ef7b9ce162fa11b26b84e7a600\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\moren\.gradle\caches\transforms-3\58e4e0ef7b9ce162fa11b26b84e7a600\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:28:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\aff98f89e501da91b836e75c7ee60364\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\d4f6311f553a0a1e8e571effcb176f14\transformed\transport-runtime-3.1.8\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\d4f6311f553a0a1e8e571effcb176f14\transformed\transport-runtime-3.1.8\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\aff98f89e501da91b836e75c7ee60364\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\aff98f89e501da91b836e75c7ee60364\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\aff98f89e501da91b836e75c7ee60364\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\aff98f89e501da91b836e75c7ee60364\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\aff98f89e501da91b836e75c7ee60364\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:32:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\d4f6311f553a0a1e8e571effcb176f14\transformed\transport-runtime-3.1.8\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\d4f6311f553a0a1e8e571effcb176f14\transformed\transport-runtime-3.1.8\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\d4f6311f553a0a1e8e571effcb176f14\transformed\transport-runtime-3.1.8\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\d4f6311f553a0a1e8e571effcb176f14\transformed\transport-runtime-3.1.8\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\d4f6311f553a0a1e8e571effcb176f14\transformed\transport-runtime-3.1.8\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\d4f6311f553a0a1e8e571effcb176f14\transformed\transport-runtime-3.1.8\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\moren\.gradle\caches\transforms-3\d4f6311f553a0a1e8e571effcb176f14\transformed\transport-runtime-3.1.8\AndroidManifest.xml:33:13-132
+queries
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:17:5-21:15
+intent#action:name:com.huawei.hms.core.aidlservice
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:18:9-20:18
+action#com.huawei.hms.core.aidlservice
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:19:13-70
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:19:21-67
+service#com.xiaomi.push.service.XMJobService
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:27:9-32:46
+	android:process
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:32:13-43
+	android:enabled
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:30:13-37
+	android:permission
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:31:13-69
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:28:13-64
+service#im.zego.zpns.internal.receiver.FCMMessageService
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:35:9-41:19
+	android:exported
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:36:13-76
+service#com.xiaomi.push.service.XMPushService
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:42:9-45:46
+	android:process
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:45:13-43
+	android:enabled
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:44:13-35
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:43:13-65
+service#com.xiaomi.mipush.sdk.PushMessageHandler
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:46:9-49:39
+	android:enabled
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:48:13-35
+	android:exported
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:49:13-36
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:47:13-68
+service#com.xiaomi.mipush.sdk.MessageHandleService
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:50:9-52:38
+	android:enabled
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:52:13-35
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:51:13-70
+receiver#com.xiaomi.push.service.receivers.NetworkStatusReceiver
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:54:9-62:20
+	android:exported
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:56:13-36
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:55:13-83
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE+category:name:android.intent.category.DEFAULT
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:57:13-61:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:58:17-79
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:58:25-76
+category#android.intent.category.DEFAULT
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:60:17-76
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:60:27-73
+receiver#com.xiaomi.push.service.receivers.PingReceiver
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:63:9-70:20
+	android:process
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:66:13-43
+	android:exported
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:64:13-74
+intent-filter#action:name:com.xiaomi.push.PING_TIMER
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:67:13-69:29
+action#com.xiaomi.push.PING_TIMER
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:68:17-69
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:68:25-66
+receiver#im.zego.zpns.internal.receiver.XiaoMiMessageReceiver
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:71:9-83:20
+	android:exported
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:73:13-36
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:72:13-80
+intent-filter#action:name:com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:74:13-76:29
+action#com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:75:17-76
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:75:25-73
+intent-filter#action:name:com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:77:13-79:29
+action#com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:78:17-76
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:78:25-73
+intent-filter#action:name:com.xiaomi.mipush.ERROR
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:80:13-82:29
+action#com.xiaomi.mipush.ERROR
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:81:17-66
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:81:25-63
+meta-data#com.huawei.hms.client.channel.androidMarket
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:88:9-90:37
+	android:value
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:90:13-34
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:89:13-71
+service#im.zego.zpns.internal.receiver.HuaWeiMessageService
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:92:9-98:19
+	android:exported
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:94:13-36
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:93:13-79
+intent-filter#action:name:com.huawei.push.action.MESSAGING_EVENT
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:95:13-97:29
+action#com.huawei.push.action.MESSAGING_EVENT
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:96:17-81
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:96:25-78
+service#im.zego.zpns.internal.receiver.OppoDataMessage
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:103:9-111:19
+	android:exported
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:105:13-36
+	android:permission
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:106:13-77
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:104:13-74
+intent-filter#action:name:com.heytap.mcs.action.RECEIVE_MCS_MESSAGE+action:name:com.heytap.msp.push.RECEIVE_MCS_MESSAGE
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:107:13-110:29
+action#com.heytap.mcs.action.RECEIVE_MCS_MESSAGE
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:108:17-84
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:108:25-81
+action#com.heytap.msp.push.RECEIVE_MCS_MESSAGE
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:109:17-82
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:109:25-79
+service#im.zego.zpns.internal.receiver.OppoCompatibleDataService
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:112:9-119:19
+	android:exported
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:114:13-36
+	android:permission
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:115:13-77
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:113:13-84
+intent-filter#action:name:com.coloros.mcs.action.RECEIVE_MCS_MESSAGE
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:116:13-118:29
+action#com.coloros.mcs.action.RECEIVE_MCS_MESSAGE
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:117:17-85
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:117:25-82
+receiver#im.zego.zpns.internal.receiver.VivoMessageReceiver
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:124:9-132:20
+	android:exported
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:126:13-37
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:125:13-78
+intent-filter#action:name:com.vivo.pushclient.action.RECEIVE
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:127:13-131:29
+action#com.vivo.pushclient.action.RECEIVE
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:130:17-77
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:130:25-74
+service#com.vivo.push.sdk.service.CommandClientService
+ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:134:9-137:71
+	android:exported
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:137:13-68
+	android:name
+		ADDED from [im.zego:zpns:2.6.0] C:\Users\moren\.gradle\caches\transforms-3\b81a602faa53230ca5a03da3d5a6a491\transformed\zpns-2.6.0\AndroidManifest.xml:135:13-74
+activity#im.zego.internal.screencapture.ZegoScreenCaptureManager$ZegoScreenCaptureAssistantActivity
+ADDED from [im.zego:express-video:3.12.2] C:\Users\moren\.gradle\caches\transforms-3\b695e1b2280d99806fb5df0fc604cefc\transformed\express-video-3.12.2\AndroidManifest.xml:10:9-15:63
+	android:screenOrientation
+		ADDED from [im.zego:express-video:3.12.2] C:\Users\moren\.gradle\caches\transforms-3\b695e1b2280d99806fb5df0fc604cefc\transformed\express-video-3.12.2\AndroidManifest.xml:14:13-49
+	android:exported
+		ADDED from [im.zego:express-video:3.12.2] C:\Users\moren\.gradle\caches\transforms-3\b695e1b2280d99806fb5df0fc604cefc\transformed\express-video-3.12.2\AndroidManifest.xml:12:13-37
+	android:configChanges
+		ADDED from [im.zego:express-video:3.12.2] C:\Users\moren\.gradle\caches\transforms-3\b695e1b2280d99806fb5df0fc604cefc\transformed\express-video-3.12.2\AndroidManifest.xml:13:13-59
+	android:theme
+		ADDED from [im.zego:express-video:3.12.2] C:\Users\moren\.gradle\caches\transforms-3\b695e1b2280d99806fb5df0fc604cefc\transformed\express-video-3.12.2\AndroidManifest.xml:15:13-61
+	android:name
+		ADDED from [im.zego:express-video:3.12.2] C:\Users\moren\.gradle\caches\transforms-3\b695e1b2280d99806fb5df0fc604cefc\transformed\express-video-3.12.2\AndroidManifest.xml:11:13-118
+service#im.zego.internal.screencapture.ZegoScreenCaptureService
+ADDED from [im.zego:express-video:3.12.2] C:\Users\moren\.gradle\caches\transforms-3\b695e1b2280d99806fb5df0fc604cefc\transformed\express-video-3.12.2\AndroidManifest.xml:16:9-21:19
+	android:enabled
+		ADDED from [im.zego:express-video:3.12.2] C:\Users\moren\.gradle\caches\transforms-3\b695e1b2280d99806fb5df0fc604cefc\transformed\express-video-3.12.2\AndroidManifest.xml:18:13-35
+	android:exported
+		ADDED from [im.zego:express-video:3.12.2] C:\Users\moren\.gradle\caches\transforms-3\b695e1b2280d99806fb5df0fc604cefc\transformed\express-video-3.12.2\AndroidManifest.xml:19:13-37
+	android:foregroundServiceType
+		ADDED from [im.zego:express-video:3.12.2] C:\Users\moren\.gradle\caches\transforms-3\b695e1b2280d99806fb5df0fc604cefc\transformed\express-video-3.12.2\AndroidManifest.xml:20:13-60
+	android:name
+		ADDED from [im.zego:express-video:3.12.2] C:\Users\moren\.gradle\caches\transforms-3\b695e1b2280d99806fb5df0fc604cefc\transformed\express-video-3.12.2\AndroidManifest.xml:17:13-83
